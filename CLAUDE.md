@@ -42,3 +42,17 @@
 
 \- Cursor IDE
 
+
+
+\## Development Workflow
+
+1\. Create feature branch
+
+2\. Make changes with AI assistance
+
+3\. Test locally
+
+4\. Commit with conventional format
+
+5\. Push and create PR
+
