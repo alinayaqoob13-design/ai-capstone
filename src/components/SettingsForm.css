@@ -92,3 +92,12 @@
   opacity: 0.7;
   cursor: not-allowed;
 }
+
+.settings-form__success {
+  margin: 0 0 0.75rem;
+  padding: 0.625rem 0.75rem;
+  border-radius: 0.5rem;
+  background: #ecfdf5;
+  color: #047857;
+  font-size: 0.875rem;
+}

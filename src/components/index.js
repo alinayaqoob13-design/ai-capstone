@@ -1,1 +1,1 @@
-export { default as SettingsForm } from './SettingsForm.jsx';
+export { default as SettingsForm } from './SettingsForm.tsx';
